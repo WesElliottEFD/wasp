@@ -1,6 +1,0 @@
-/.wasp/
-/.env.server
-/.env.client
-
-# Local Netlify folder
-.netlify
